@@ -11,7 +11,7 @@ I've been trying to become better at using Blender, and the skill I've found mos
 
 I had originally planned to make a post every day with a video of each model (just a quick turntable render). They'd be so short though, I decided to make one video per week, with all the models aggregated. So check out the video from the first week below.
 
-<iframe src="http://player.vimeo.com/video/71555749" width="627px" height="360" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> 
+`video coming soon`
 
 Includes:
 
