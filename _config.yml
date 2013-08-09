@@ -1,0 +1,7 @@
+name: VFX Notes
+markdown: rdiscount
+rdiscount: 
+    extensions: [smart]
+pygments: true
+url: http://vfx.alexnking.com
+author: Alex King
