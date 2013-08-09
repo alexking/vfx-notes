@@ -1,4 +1,4 @@
-vfx-notes
-=========
+Alex King's VFX Notes
+=====================
 
-Alex King's VFX Note Blog
+Source code for site may be viewed in the `gh-pages` branch, powered by GitHub pages.
