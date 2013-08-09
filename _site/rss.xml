@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>VFX Notes</title>
+    <link>http://vfx.alexnking.com</link>
+    <description>RSS feed for VFX Notes</description>
+    <pubDate>Wed, 07 Aug 2013 00:00:00 -0400</pubDate>
+    <item>
+      <title>Have a Seat!</title>
+      <link>http://vfx.alexnking.com/blender/ae/2013/08/07/have-a-seat.html</link>
+      <description>Doing some seating-based modeling, testing the Blender Cycles Wireframe node, and having fun with digital [dolly zoom][dolly]. Also finally got to try out [Optical Flares][vcp].
+
+[dolly]: http://en.wikipedia.org/wiki/Dolly_zoom
+[vcp]: http://www.videocopilot.net</description>
+      <pubDate>Wed, 07 Aug 2013 00:00:00 -0400</pubDate>
+      <dc:date>2013-08-07T00:00:00-04:00</dc:date>
+    </item>
+    <item>
+      <title>Month of Modeling</title>
+      <link>http://vfx.alexnking.com/blender/2013/08/07/month-of-modeling.html</link>
+      <description>&gt; &quot;At every convention I attend someone will ask me how to get better at drawing. The answer is draw every day and never be satisfied with the result.&quot;
+&gt; – [Gabe from Penny Arcade][pa]
+ 
+I've been trying to become better at using Blender, and the skill I've found most lacking lately has been my modeling. So this month, I decided to model something every day, as quickly and with as much detail as possible. They say practice makes perfect right? I'm not holding myself to making materials and textures for everything, but I'm adding them when I have time, since it's a bit more fun. 
+
+[pa]: http://www.penny-arcade.com/2012/08/03/drawrings
+[m4]: http://cgcookie.com/blender/cgc-series/weapon-modeling-an-m4/
+[bird]: http://cgcookie.com/blender/cgc-courses/piero/
+[cgcookie]: http://cgcookie.com</description>
+      <pubDate>Wed, 07 Aug 2013 00:00:00 -0400</pubDate>
+      <dc:date>2013-08-07T00:00:00-04:00</dc:date>
+    </item>
+    <dc:date>2013-08-07T00:00:00-04:00</dc:date>
+  </channel>
+</rss>
