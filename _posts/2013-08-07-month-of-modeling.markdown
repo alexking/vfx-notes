@@ -3,6 +3,7 @@ layout: post
 title:  "Month of Modeling"
 categories: blender
 video: http://vimeo.com/moogaloop.swf?clip_id=72526684
+thumbnail: /images/burger.jpg
 description: I've been trying to become better at using Blender, and the skill I've found most lacking lately has been my modeling. So this month, I decided to model something every day, as quickly and with as much detail as possible. They say practice makes perfect right?
 ---
  
