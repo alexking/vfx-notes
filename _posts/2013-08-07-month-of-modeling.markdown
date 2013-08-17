@@ -2,6 +2,8 @@
 layout: post
 title:  "Month of Modeling"
 categories: blender
+video: http://vimeo.com/moogaloop.swf?clip_id=72526684
+description: I've been trying to become better at using Blender, and the skill I've found most lacking lately has been my modeling. So this month, I decided to model something every day, as quickly and with as much detail as possible. They say practice makes perfect right?
 ---
  
 > "At every convention I attend someone will ask me how to get better at drawing. The answer is draw every day and never be satisfied with the result."
@@ -29,6 +31,8 @@ So please keep checking back in for new videos, hopefully you can watch me start
 
 ### Resources
 One of the resources I've found extremely helpful in trying to learn Blender modeling is [CGCookie][cgcookie]. I'd highly recommend them, they're even worth getting a subscription to. My favorite courses on modeling so far have been [this one on hard surface modeling][m4] and [this one on modeling a bird][bird]. 
+
+
 
 
 

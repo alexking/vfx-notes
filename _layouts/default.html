@@ -12,6 +12,14 @@
         <!-- Custom CSS -->
         <link rel="stylesheet" href="/css/main.css">
 
+		{% if page.video %}
+			<meta property="og:video" content="{{ page.video }}" />
+		{% endif %}
+
+		{% if page.description %}
+			<meta property="og:description" content="{{ page.description }}" />
+		{% endif %}
+
     </head>
     <body>
 
