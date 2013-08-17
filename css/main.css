@@ -25,6 +25,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
 
+
 a         { color: #00a; }
 a:hover   { color: #000; }
 a:visited { color: #a0a; }
@@ -47,6 +48,10 @@ ul.posts span {
   color: #aaa;
   font-family: Monaco, "Courier New", monospace;
   font-size: 80%;
+}
+
+#home p {
+	margin-top: .2em;
 }
 
 /*****************************************************************************/
@@ -168,3 +173,13 @@ ul.posts span {
 	margin-left: 2.5em;
 	list-style: square;
 }	
+
+
+h2 { 
+	margin-bottom: .1em;
+	font-size: 130%;
+}
+
+h2 a, h2 a:visited {
+	color: black !important;
+}
