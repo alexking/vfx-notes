@@ -1,0 +1,17 @@
+---
+layout: post
+title:  Bike Model
+categories: blender
+description: Well despite the lack of updates, the month of modeling project went great.
+---
+ 
+Well despite the lack of updates, the [month of modeling project][mom] went great. It turned out to be way too much work to render out a new video each week, but I was always able to get something modeled (well except during [PAX][pax]). I think it helped a ton. 
+ 
+I just finished this model of a bike, which I think is the largest thing I've modeled so far - check it out!
+ 
+[![bike model](/images/bike_thumbnail.jpg)][bike]
+
+
+[pax]: http://prime.paxsite.com
+[bike]: /images/bike_large.jpg
+[mom]: /blender/2013/08/07/month-of-modeling.html

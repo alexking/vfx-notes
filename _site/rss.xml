@@ -8,7 +8,7 @@
     <title>Alex King - VFX Notes</title>
     <link>http://vfx.alexnking.com</link>
     <description>RSS feed for Alex King - VFX Notes</description>
-    <pubDate>Wed, 07 Aug 2013 00:00:00 -0400</pubDate>
+    <pubDate>Wed, 11 Sep 2013 00:00:00 -0400</pubDate>
     <item>
       <title>Have a Seat!</title>
       <link>http://vfx.alexnking.com/blender/ae/2013/08/07/have-a-seat.html</link>
@@ -34,6 +34,21 @@ I've been trying to become better at using Blender, and the skill I've found mos
       <pubDate>Wed, 07 Aug 2013 00:00:00 -0400</pubDate>
       <dc:date>2013-08-07T00:00:00-04:00</dc:date>
     </item>
-    <dc:date>2013-08-07T00:00:00-04:00</dc:date>
+    <item>
+      <title>Bike Model</title>
+      <link>http://vfx.alexnking.com/blender/2013/09/11/bike.html</link>
+      <description>Well despite the lack of updates, the [month of modeling project][mom] went great. It turned out to be way too much work to render out a new video each week, but I was always able to get something modeled (well except during [PAX][pax]). I think it helped a ton. 
+ 
+I just finished this model of a bike, which I think is the largest thing I've modeled so far - check it out!
+ 
+[![bike model](/images/bike_thumbnail.jpg)][bike]
+
+[pax]: http://prime.paxsite.com
+[bike]: /images/bike_large.jpg
+[mom]: /blender/2013/08/07/month-of-modeling.html</description>
+      <pubDate>Wed, 11 Sep 2013 00:00:00 -0400</pubDate>
+      <dc:date>2013-09-11T00:00:00-04:00</dc:date>
+    </item>
+    <dc:date>2013-09-11T00:00:00-04:00</dc:date>
   </channel>
 </rss>
