@@ -1,0 +1,11 @@
+---
+layout: post
+title:  Door Latch
+video: http://vimeo.com/moogaloop.swf?clip_id=75549781
+categories: blender
+description: <br/><iframe src="http://player.vimeo.com/video/75549781"  width="627" height="360" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+---
+ 
+Some experiments with different materials in Cycles.
+
+<iframe src="http://player.vimeo.com/video/75549781"  width="627" height="360" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
