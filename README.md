@@ -1,6 +1,6 @@
-vfx-notes
-=========
-
 Alex King's VFX Note Blog
+=========================
 
-http://vfx-notes.alexnking.com
+View the site at http://vfx.alexnking.com (built with [Jekyll][jekyll]).
+
+[jekyll]: http://jekyllrb.com
